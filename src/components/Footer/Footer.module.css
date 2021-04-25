@@ -1,4 +1,5 @@
 .footer {
+  isolation: isolate;
   position: relative;
   padding: 64px;
   background: hsl(0deg, 0%, 5%);

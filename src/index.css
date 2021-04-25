@@ -30,3 +30,12 @@ body {
   padding: 0;
   border: 0;
 }
+
+.grayStripe {
+  isolation: isolate;
+  position: fixed;
+  bottom:0;
+  height: 30%;
+  width: 100%;
+  background-color: hsl(195, 20%, 86%);
+}
